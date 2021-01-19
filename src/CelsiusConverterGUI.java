@@ -31,6 +31,7 @@ public class CelsiusConverterGUI extends JFrame {
     }
 
     public static void main(String[] args) {
+        //Can I edit? - Charlieee1
         JFrame frame = new CelsiusConverterGUI("My Celsius Converter");
         frame.setVisible(true);
 
